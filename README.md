@@ -1,8 +1,8 @@
 ### E aí, aqui é o Carlos Ramon.
 
-- 🔭 Hoje, estou apenas estudando.
-- 🌱 Estudando: javascript
-- 📫 Me contate: carloramon100@gmail.com
+- 🔭 Curso: faço ciência da computação no IFSC
+- 🌱 Linguagem principal: javascript
+- 📫 Meu contato: carloramon100@gmail.com
 - 😄 Linguagens
 - 
   <div style="display: inline_block"><br>
