@@ -2,8 +2,8 @@
 
 - 🔭 Hoje, estou apenas estudando.
 - 🌱 Estudando: javascript
-- 🤔 Preciso de ajuda com: algoritmos, lógica de programação e javascript/frameworks
 - 📫 Me contate: carloramon100@gmail.com
+- 😄 Linguagens
 - 
   <div style="display: inline_block"><br>
   <img align="center" alt="carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
