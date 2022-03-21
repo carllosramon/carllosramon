@@ -1,7 +1,7 @@
 ### E aí, aqui é o Carlos Ramon.
 
-- 🤯 Curso: faço ciência da computação no IFSC
-- 😎 Linguagem principal: javascript
+- 🤯 Curso ciência da computação no IFSC
+- 😎 Linguagem principal é o javascript
 - 😄 Linguagens mais utilizadas
 - 
   <div style="display: inline_block"><br>
